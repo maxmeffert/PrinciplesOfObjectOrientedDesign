@@ -39,7 +39,37 @@ _Timeliness is the ability of a software system to be released when or before it
 
 ## Principles
 
-List of Principles
+### General Purpose Principles
+#### KISS: Keep It Simple and Stupid
+
+
+### SOLID Principles
+#### SRP: Single Responsibility Principle
+#### OCP: Open/Closed Principle
+#### LSP: Liskov Substitution Principle
+#### ISP: Interface Segregation Principle
+#### DIP: Dependency Inversion Principle
+
+
+### Packaging Pinciples
+#### RREP: Reuse Release Equivalence Principle
+#### CCP: Common Closure Principle
+#### CRP: Common Reuse Principle
+#### ADP: Acyclic Dependency Principle
+#### SDP: Stable Dependency Principle
+#### SAP: Stable Abstraction Principle
+
+
+### Miscalenious Principles
+#### CQS: Command/Query Sepration 
+#### CQRS: Command/Query Responsibility Separation
+#### LoD: Law of Demeter
+#### DbC: Design by Conctract
+#### LMUP: Linguistic Modular Units Principle
+#### SDocP: Self Documentation Principle
+#### UAP: Uniform Access Principle
+#### SCP: Single Choice Principle
+#### PCP: Persistence Closure Principle
 
 # References
 
