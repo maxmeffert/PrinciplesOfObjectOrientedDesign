@@ -21,41 +21,36 @@ The activity of planning of a system using interacting and cooperating objects.
 
 ## Software Qualities
 
-### Internal
-
-### External
-
-#### Correctness
+### Correctness
 _Correctness is the ability of software products to perform their exact tasks, as defined by their specification._ [1]
 
-#### Robustness
+### Robustness
 _Robustness is the ability of software systems to react appropriately to abnormal conditions._ [1]
 
-#### Extendibility
+### Extendibility
 _Extendibility is the ease of adapting software products to changes of specification._ [1]
 
-#### Reusability
+### Reusability
 _Reusability is the ability of software elements to serve for the construction of many different applications._ [1]
 
-#### Compatibility
+### Compatibility
 _Compatibility is the ease of combining software elements with others._ [1]
 
-#### Efficiency
+### Efficiency
 _Efficiency is the ability of a software system to place as few demands as possible on hardware resources, such as processor time, space occupied in internal and external memories, bandwidth used in communication devices._ [1]
 
-#### Portability
+### Portability
 _Portability is the ease of transferring software products to various hardware and software environments._ [1]
 
-#### Ease of Use
+### Ease of Use
 _Ease of use is the ease with which people of various backgrounds and qualifications can learn to use software products and apply them to solve problems. It also covers the ease of installation, operation and monitoring._ [1]
 
-#### Functionality
+### Functionality
 _Functionality is the extent of possibilities provided by a system._ [1]
 
-#### Timeliness
+### Timeliness
 _Timeliness is the ability of a software system to be released when or before its users want it._ [1]
 
-#### Derived
 
 
 ## Principles
