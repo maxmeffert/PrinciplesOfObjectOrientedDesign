@@ -58,6 +58,8 @@ _Verifiability is the ease of preparing acceptance procedures, especially test d
 _Integrity is the ability of software systems to protect their various components
 (programs, data) against unauthorized access and modification._ [1]
 
+**Note regarding Security:**  This quality seems to cover both Integrity and Confidentiality of the Information Security/CIA-Triad
+
 ### Reparability
 _Repairability is the ability to facilitate the repair of defects._ [1]
 
