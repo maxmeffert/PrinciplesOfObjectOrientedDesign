@@ -76,7 +76,16 @@ Verfiability, Repairability, Maintainability
 
 ---
 
+<style scoped>
+ol li {
+  font-size: 15pt
+}
+</style>
+
 # References
+
+1. Bertrand Meyer: Object Oriented Software Construction. Prentice Hall, 1988
+2. Robert C. Martin: Agile Software Development: Principles, Patterns, and Practices. Prentice Hall, 2002
 
 ---
 
