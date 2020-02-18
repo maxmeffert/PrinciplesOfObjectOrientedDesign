@@ -7,7 +7,35 @@ The idea is to introduce _Principles of Object Oriented Design_ with a cause-eff
 
 ## Software Qualities
 
-List of Qualities
+### Correctness
+_Correctness is the ability of software products to perform their exact tasks, as defined by their specification._ [1]
+
+### Robustness
+_Robustness is the ability of software systems to react appropriately to abnormal conditions._ [1]
+
+### Extendibility
+_Extendibility is the ease of adapting software products to changes of specification._ [1]
+
+### Reusability
+_Reusability is the ability of software elements to serve for the construction of many different applications._ [1]
+
+### Compatibility
+_Compatibility is the ease of combining software elements with others._ [1]
+
+### Efficiency
+_Efficiency is the ability of a software system to place as few demands as possible on hardware resources, such as processor time, space occupied in internal and external memories, bandwidth used in communication devices._ [1]
+
+### Portability
+_Portability is the ease of transferring software products to various hardware and software environments._ [1]
+
+### Ease of Use
+_Ease of use is the ease with which people of various backgrounds and qualifications can learn to use software products and apply them to solve problems. It also covers the ease of installation, operation and monitoring._ [1]
+
+### Functionality
+_Functionality is the extent of possibilities provided by a system._ [1]
+
+### Timeliness
+_Timeliness is the ability of a software system to be released when or before its users want it._ [1]
 
 ## Principles
 
