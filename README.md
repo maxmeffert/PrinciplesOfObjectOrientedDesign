@@ -51,6 +51,19 @@ _Functionality is the extent of possibilities provided by a system._ [1]
 ### Timeliness
 _Timeliness is the ability of a software system to be released when or before its users want it._ [1]
 
+### Verifiability
+_Verifiability is the ease of preparing acceptance procedures, especially test data, and procedures for detecting failures and tracing them to errors during the validation and operation phases._ [1]
+
+### Integrity
+_Integrity is the ability of software systems to protect their various components
+(programs, data) against unauthorized access and modification._ [1]
+
+### Reparability
+_Repairability is the ability to facilitate the repair of defects._ [1]
+
+### Economy
+_Economy, the companion of timeliness, is the ability of a system to be completed on
+or below its assigned budget._ [1]
 
 
 ## Principles
