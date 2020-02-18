@@ -5,6 +5,20 @@ Repository for slide-ware and talks on _Principles of Object Oriented Design_.
 
 The idea is to introduce _Principles of Object Oriented Design_ with a cause-effect relationship regarding _Software Qualities_, i.e. the principle states an axiomatic "law" which if obeyed (the cause) introduces or improves one or more qualities constituting "good" software (the effect).
 
+## Object Orientation
+* A description of a system using interacting and cooperating objects.
+* An object is composed of 
+  * _attributes_ (data) 
+  * _operations_ (behavior)
+
+[Citation needed]
+
+## Object Oriented Design
+The activity of planning of a system using interacting and cooperating objects.
+
+[Citation needed]
+
+
 ## Software Qualities
 
 ### Internal
